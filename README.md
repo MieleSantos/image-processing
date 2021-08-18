@@ -1,7 +1,7 @@
-# image_processing
+# image-processing-diolab
 
 Description.<br>
-The package image_processing is used to:<br>
+The package image-processing-diolab is used to:<br>
     Processing:<br>
         - Histrogram matching<br>
         - Structural similarity<br>
