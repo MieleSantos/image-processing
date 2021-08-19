@@ -68,6 +68,7 @@ pip install image-processing-diolab-test
 from image-processing-diolab-test.processing import combination
 combination.find_difference(image1, image2)
 ```
+![alt text](dio.png "Title")
 
 ## Author(quem subiu o pacote no test.pypi)
 Miele
